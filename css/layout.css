@@ -34,9 +34,9 @@
   float: left;
 }
 
-[class*="col-"] {
+/*[class*="col-"] {
   margin-left: 0.5%;
-}
+}*/
 
 .first {
   margin-left: 0;
