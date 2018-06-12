@@ -45,3 +45,8 @@
 .bottom-space {
   margin-bottom: 20px;
 }
+
+.width {
+  max-width: 100%;
+  width: 100%;
+}
